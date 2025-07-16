@@ -1,5 +1,12 @@
 # 📨 Thunderbird to Logseq
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-lightgrey?logo=linux)
+![Logseq](https://img.shields.io/badge/Export-Logseq-brightgreen?logo=markdown)
+![Status](https://img.shields.io/badge/Maintained-yes-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 > I use logseq for most of my work notes and often found myself copy-pasting content from mails. There does not seem to be a nice standard for linking to messages in Thunderbird, so I decided to instead add the mails into my notes directly. This script automates the process and does some basic processing.
 
 This Python script reads emails directly from Thunderbird's internal **mbox** format and exports them as individual Markdown files tailored for use with [Logseq](https://logseq.com).
