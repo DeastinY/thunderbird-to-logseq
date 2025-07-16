@@ -61,7 +61,7 @@ Description=Sync Thunderbird MBox to Logseq
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/python3 /home/youruser/thunderbird_to_logseq.py
+ExecStart=/usr/bin/python3 /home/user/tb2logseq/main.py
 ```
 
 #### 2. Create a systemd timer
