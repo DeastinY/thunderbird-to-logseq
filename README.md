@@ -13,6 +13,13 @@ This Python script reads emails directly from Thunderbird's internal **mbox** fo
 
 ---
 
+<p>
+    <img src="https://github.com/DeastinY/thunderbird-to-logseq/blob/main/testmail.png?raw=true" hspace="10" >
+    <img src="https://github.com/DeastinY/thunderbird-to-logseq/blob/main/testmail_journal.png?raw=true" hspace="10" >
+</p>
+
+---
+
 ## ✨ Features
 
 - 📁 Parses Thunderbird `.mbox` files directly
